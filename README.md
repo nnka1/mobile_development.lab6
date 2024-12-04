@@ -9,7 +9,7 @@
 
 (кликабельно)
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4dXUo3m3PiA/default.jpg)](https://www.youtube.com/shorts/4dXUo3m3PiA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/L9eOcCEkh54/default.jpg)](https://www.youtube.com/shorts/L9eOcCEkh54)
 
 ## 1. Обзор MainActivity
 ![](https://github.com/nnka1/mobile_development.lab6/blob/main/photo_2024-12-04_17-32-08.jpg)
