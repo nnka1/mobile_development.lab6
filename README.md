@@ -12,7 +12,9 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4dXUo3m3PiA/default.jpg)](https://www.youtube.com/shorts/4dXUo3m3PiA)
 
 ## 1. Обзор MainActivity
-![](https://github.com/nnka1/mobile_development.lab5/blob/main/photo_2024-12-03_15-37-30.jpg)
+![](https://github.com/nnka1/mobile_development.lab6/blob/main/photo_2024-12-04_17-32-08.jpg)
+
+![](https://github.com/nnka1/mobile_development.lab6/blob/main/photo_2024-12-04_17-33-51.jpg)
 
 Основные функции:
 
